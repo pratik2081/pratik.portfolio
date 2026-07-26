@@ -1,0 +1,13 @@
+{
+  "name": "alex-rivera-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio site with a dependency-free Node.js backend for the contact form.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}
